@@ -1,0 +1,2 @@
+﻿n_pairs,mean_lfu_minus_lru,std_lfu_minus_lru,se_lfu_minus_lru,ci95_low,ci95_high,paired_t_two_sided_t,paired_t_two_sided_p,paired_t_greater_t,paired_t_greater_p,wilcoxon_two_sided_p,wilcoxon_greater_p,cohen_dz
+5,0.06396222222222227,0.03591176013362559,0.01606022737009075,0.019371882552170087,0.10855256189227444,3.9826473653380687,0.01636493336904496,3.9826473653380687,0.00818246668452248,0.0625,0.03125,1.7810940478612722
