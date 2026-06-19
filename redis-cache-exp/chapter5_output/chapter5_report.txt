@@ -67,10 +67,3 @@ abs_error_actual_capacity                is_lfu -0.061947 0.005889 -10.518964  7
      hit_rate_interaction          alpha:is_lfu -0.118498 0.023150  -5.118662  3.077106e-07 -0.163871  -0.073124   0.974033       0.971487  57.0
      hit_rate_interaction capacity_ratio:is_lfu  0.138714 0.096937   1.430979  1.524362e-01 -0.051278   0.328706   0.974033       0.971487  57.0
 
-请把本文件和以下 CSV 一起发送给 ChatGPT：
-1. descriptive_stats.csv
-2. strategy_paired_test_summary.csv
-3. strategy_paired_groups.csv
-4. strategy_welch_test_by_condition.csv
-5. regression_coefficients.csv
-6. regression_full_summary.txt

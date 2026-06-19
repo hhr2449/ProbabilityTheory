@@ -506,7 +506,6 @@ def write_chapter5_report(
         f.write(reg_table.to_string(index=False))
         f.write("\n\n")
 
-        f.write("请把本文件和以下 CSV 一起发送给 ChatGPT：\n")
         f.write("1. descriptive_stats.csv\n")
         f.write("2. strategy_paired_test_summary.csv\n")
         f.write("3. strategy_paired_groups.csv\n")

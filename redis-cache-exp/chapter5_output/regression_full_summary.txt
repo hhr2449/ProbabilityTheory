@@ -157,6 +157,4 @@ Skew:                          -0.811   Prob(JB):                       0.0437
 Kurtosis:                       2.918   Cond. No.                         61.8
 ==============================================================================
 
-Notes:
-[1] Standard Errors are heteroscedasticity robust (HC3)
 
